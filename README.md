@@ -5,5 +5,5 @@ A simple XO board game running on the terminal with the tasks of making moves an
 ## Python FEM 
 Calculate simple frame, beam, and truss problems using the library [anaStruct 2D Frames and Trusses](https://github.com/ritchie46/anaStruct)
 
-## Biểu đồ nội lực, lực cắt
+## Diagram of internal force and shear force
 Draw simple internal force and shear force diagrams of beams
